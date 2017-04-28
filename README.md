@@ -14,4 +14,8 @@ https://github.com/sephorab/GLPOO_ESIEA_1617_Groupe_Bensimhon.git
 Lien branche HEAD :
 https://github.com/sephorab/GLPOO_ESIEA_1617_Groupe_Bensimhon/tree/HEAD
 
+
+Télecharger le fichier .zip du jeu :
+![Lien vers le projet jeu zippé](https://github.com/sephorab/GLPOO_ESIEA_1617_Groupe_Bensimhon/blob/HEAD/Egg-Game.zip "Description goes here")
+
 ![alt text](egg.png "Magical eggs")
