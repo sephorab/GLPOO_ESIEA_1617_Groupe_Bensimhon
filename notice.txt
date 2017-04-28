@@ -1,11 +1,15 @@
 Equipe : 
-BEMBA Séphora - 32
-BENSIMHON Andréa - 32
+BEMBA SÃ©phora - 32
+BENSIMHON AndrÃ©a - 32
 DELOCHE DE NOYELLE Aymeric - 32
 DUBRET Ivan - 32
-FLAMBARD François - 32
+FLAMBARD FranÃ§ois - 32
 MOHAMED Sanyat - 32
 PORTUGAIS Ilann - 32
 
 Lien repository github : 
-...
+https://github.com/sephorab/GLPOO_ESIEA_1617_Groupe_Bensimhon.git
+IMPORTANT : le logiciel se situe dans la branche HEAD et non master. Cloner uniquement la branche HEAD et non MASTER.
+
+Lien branche HEAD :
+https://github.com/sephorab/GLPOO_ESIEA_1617_Groupe_Bensimhon/tree/HEAD
